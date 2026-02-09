@@ -18,7 +18,9 @@ O sistema inclui uma interface de votação segura (UserForm), reconhecimento de
 
 ### A Urna (Interface do Usuário)
 *Desenvolvida para ser tão simples que até o Kevin consegue usar.*
-<img width="1152" height="611" alt="image" src="https://github.com/user-attachments/assets/43978a97-da15-49a3-92bb-c961330b1cdb" />
+<img width="1875" height="550" alt="image" src="https://github.com/user-attachments/assets/2daa478f-0a8e-4f3d-a4e8-e097450beedc" />
+<img width="1105" height="980" alt="image" src="https://github.com/user-attachments/assets/921646d5-3c3e-4007-aa42-db29c29ee899" />
+
 
 
 ### O Dashboard (Modo "Dark Mode" Executivo)
